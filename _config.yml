@@ -13,8 +13,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About Polydata
     url: /about
+  - title: Our team
+    url: /staff
   - title: Contact
     url: /contact
   - title: Feed
