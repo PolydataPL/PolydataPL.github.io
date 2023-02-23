@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Polydata
+title: Polydata.pl | Avant-garde data-powered projects made with love by developers
+description: Polydata is a startup and remote-first company specializing in delivering
+  data-centric products powered by simplified AI techniques.
 tags:
   - blog
   - template
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: kontakt@polydata.pl
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
