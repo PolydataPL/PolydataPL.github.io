@@ -7,7 +7,7 @@ description: Introduction to our company.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Polydata logo" width="200">
+<img class="img-rounded" src="/assets/img/uploads/polydata-logo.png" alt="Polydata logo" width="200">
 
 # About Polydata company
 
