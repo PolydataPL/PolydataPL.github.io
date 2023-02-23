@@ -17,6 +17,8 @@ menu:
     url: /about
   - title: Our team
     url: /staff
+  - title: Our projects
+    url: /projects
   - title: Contact
     url: /contact
   - title: Feed
