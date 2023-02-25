@@ -20,3 +20,7 @@ TBD
 ### DSJOBS
 
 TBD
+
+### 🇵🇱 Uczciwa rekrutacja
+
+TBD
