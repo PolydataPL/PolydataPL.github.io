@@ -1,5 +1,5 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2023-02-25 12:26:40
 layout: post
 title: A wonderful serenity has taken possession of my entire soul
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -11,7 +11,7 @@ tags:
   - platform
   - javascript
   - vscode
-author: mranderson
+author: jarczyko
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

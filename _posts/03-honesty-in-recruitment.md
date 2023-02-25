@@ -1,5 +1,5 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2023-02-23 12:26:40
 layout: post
 title: The quick brown fox jumps over a lazy dog
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -10,7 +10,7 @@ category: css
 tags:
   - css
   - tips
-author: mranderson
+author: jarczyko
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
