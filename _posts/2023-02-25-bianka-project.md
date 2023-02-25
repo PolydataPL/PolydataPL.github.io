@@ -16,6 +16,6 @@ tags:
   - grants
   - education
   - career
-author: jarczyk
+author: jarczyko
 paginate: true
 ---
