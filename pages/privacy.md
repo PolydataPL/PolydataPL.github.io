@@ -27,8 +27,8 @@ We do not share any personal information as we don't collect any user data.
 
 ## Updates to Our Privacy Policy
 
-*We may update this Privacy Policy from time to time.* Any changes to this Privacy Policy will be posted on this page.
+*We may update this Privacy Policy from time to time. Any changes to this Privacy Policy will be posted on this page.*
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at biuro [at] polydata.pl.
+If you have any questions about this Privacy Policy, please contact us at email privacy[at]polydata.pl.
