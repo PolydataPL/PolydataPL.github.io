@@ -10,6 +10,6 @@ github_username: oskar-j
 twitter_username: oskarj86
 # instagram_username: instagram_username
 linkedin_username: oskarjarczyk
-# medium_username: medium_username
+medium_username: oskar.jarczyk
 ---
 
