@@ -30,6 +30,11 @@
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
+      {% if site.angellist_username %}
+        <a href="https://wellfound.com/company/{{ site.angellist_username }}" title="AngelList">
+          <svg><use xlink:href="#icon-angellist"></use></svg>
+        </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
@@ -57,6 +62,9 @@
 {% endif %}
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
+{% endif %}
+{% if site.angellist_username %}
+    {% assign social_urls = social_urls | append: '"https://wellfound.com/company/' | append: site.angellist_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
