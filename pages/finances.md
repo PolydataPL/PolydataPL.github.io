@@ -17,9 +17,10 @@ POLYDATA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
 
 ## Currently elected board members
 
-Tenure for 2024 - now:
+### Tenure from 2024 to present
 
 Oskar Jan Jarczyk
+
 Iryna Mazur
 
 ## Financial data
@@ -30,21 +31,22 @@ Kapitał zakładowy 5000 zł w pełni wpłacony. Spółka zarejestrowana w w KRS
 
 Bank account (numer konta bankowego): 
 
-PL 44 1140 2004 0000 3802 8512 4180
+PL 44 1140 2004 0000 3802 8512 4180 (mBank)
 
 ## Address and TAX ID
 
 Polydata sp. z o. o.
 
 ul. Puławska 77/U5
+
 02-595 Warszawa
+
 REGON: 529386228
+
 NIP: 5214081694
+
 KRS: 0001121542
 
 ## Accounting & billing
 
-<span style="position: relative;">
-billing❍<span style="position: absolute; top: 0; left: 0;">a</span>polydata.pl
-</span>
-
+billing﹫polydata.pl
