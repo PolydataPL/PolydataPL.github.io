@@ -1,5 +1,5 @@
 ---
-date: 2024-09-07 17:40
+date: 2024-09-06 17:40
 layout: post
 title: "Polydata projects and the team behind it"
 subtitle: Who we are and how we're going to change the world
